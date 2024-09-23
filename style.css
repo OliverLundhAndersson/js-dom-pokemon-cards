@@ -17,6 +17,8 @@ body {
 }
 
 img {
+  width: 150px;
+  height: auto;
   max-width: 100%;
 }
 
